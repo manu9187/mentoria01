@@ -1,8 +1,8 @@
-# Aulas de Mentoria
+# Aula -  Revisão de Mentoria
 
-## Aula 2
+## Mentoria 2
 
-Anotações da aula 2 de mentoria do dia 30/05
+Anotações da aula de revisão de mentoria do dia 30/06/2021
 
 - aula
 - manu
